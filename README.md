@@ -9,7 +9,8 @@ A dynamic, 5-year financial forecasting model built to project corporate perform
 * **Scenario Analysis:** Configured to easily toggle between "Base Case," "Aggressive Growth," and "Margin Contraction" environments.
 
 ## Visual Output
-*(To add your image here, drag and drop the `chart.png` file right into this text box while editing on GitHub, and it will generate the link automatically!)*
+<img width="1000" height="500" alt="chart" src="https://github.com/user-attachments/assets/b12f7bd1-69f7-4aa0-933b-c7ee45133b79" />
+
 
 ## Technical Stack
 * **Financial Logic:** Corporate Finance Institute (CFI) Modeling Standards
